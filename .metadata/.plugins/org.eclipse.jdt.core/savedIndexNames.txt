@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\TEKLEND\Downloads\OrangeHRM-20250618T131027Z-1-001\OrangeHRM\.metadata\.plugins\org.eclipse.jdt.core
+1289428541.index
+3860587574.index
+1865797976.index
